@@ -27,14 +27,15 @@
 
 ###Random Facts
 - 🚗 4.92 customer rating on <img alt="DoorDash" src="https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white"/> deliveries.
-- I am rank 2,531,972 on <img alt="LeetCode" src=https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06 />
+- 🦜 I have a parrot who is 12 years old. 
+- 👨‍👩‍👦‍👦 I am very grateful for my family and friends. 
 
 
 ###Get in Touch
 <p>
-    <a href="mailto:amahjoor@gmu.edu" target="_blank">University Email</a>
-    <a href="mailto:armansmahjoor@gmail.com" target="_blank">Personal Email</a>
-    <a href="https://www.linkedin.com/in/armanmahjoor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+    Feel free to send me an email: [<a href="mailto:amahjoor@gmu.edu" target="_blank">University Email</a>] [<a href="mailto:armansmahjoor@gmail.com" target="_blank">Personal Email</a>]
+    <br>
+    Connect with me! <a href="https://www.linkedin.com/in/armanmahjoor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 
