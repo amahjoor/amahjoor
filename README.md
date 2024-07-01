@@ -1,13 +1,13 @@
 ## Hello, I'm Arman 👋
 
-###About Me
+<h3>About Me</h3>
 - 🎓 pursuing a B.S. in Computer Science at George Mason University (Class of 2026)
 - 🧑‍🔬 interessted in AI, machine learning, neural networks, deep learning, mathematics, and startups
 - 📚 currently reading Rich Dad Poor Dad by Robert T. Kiyosaki
 - 🛹 i like to skate
 
 
-###Tech Stack
+<h3>Tech Stack</h3>
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=0089c9" />
     <img alt="Python" src="https://img.shields.io/badge/Python-000?style=flat-square&logo=Python" />
