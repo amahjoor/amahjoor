@@ -36,7 +36,7 @@
     Feel free to send me an email: [<a href="mailto:amahjoor@gmu.edu" target="_blank">University Email</a>] [<a href="mailto:armansmahjoor@gmail.com" target="_blank">Personal Email</a>]
     <br>
 </p>
-
+<br>
 [NOTE: Most of my commits prior to 6/30 are not visible on my profile due to not having my email linked to git. :( ]
 
 <!--
