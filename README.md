@@ -25,13 +25,13 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1297fb" />
 </p>
 
-###Random Facts
+<h3>Random Facts</h3>
 - 🚗 4.92 customer rating on <img alt="DoorDash" src="https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white"/> deliveries.
 - 🦜 I have a parrot who is 12 years old. 
 - 👨‍👩‍👦‍👦 I am very grateful for my family and friends. 
 
 
-###Get in Touch
+<h3>Get in Touch</h3>
 <p>
     Feel free to send me an email: [<a href="mailto:amahjoor@gmu.edu" target="_blank">University Email</a>] [<a href="mailto:armansmahjoor@gmail.com" target="_blank">Personal Email</a>]
     <br>
