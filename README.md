@@ -32,9 +32,9 @@
 
 ###Get in Touch
 <p>
+    <a href="mailto:amahjoor@gmu.edu" target="_blank">University Email</a>
+    <a href="mailto:armansmahjoor@gmail.com" target="_blank">Personal Email</a>
     <a href="https://www.linkedin.com/in/armanmahjoor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-    <a href="mailto:amahjoor@gmu.edu" target="_blank">University Email<img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="University Email"></a>
-    <a href="mailto:armansmahjoor@gmail.com" target="_blank">Personal Email 📧</a>
 </p>
 
 
