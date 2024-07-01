@@ -35,7 +35,6 @@
 <p>
     Feel free to send me an email: [<a href="mailto:amahjoor@gmu.edu" target="_blank">University Email</a>] [<a href="mailto:armansmahjoor@gmail.com" target="_blank">Personal Email</a>]
     <br>
-    Connect with me! <a href="https://www.linkedin.com/in/armanmahjoor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 
