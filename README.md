@@ -37,7 +37,7 @@
     <br>
 </p>
 
-[NOTE: Because I didn't have an email linked to git until 6/30, the majority of my commits prior to then haven't shown up under my Github profile :( ]
+[NOTE: Most of my commits prior to 6/30 are not visible on my GitHub profile due to not having my email linked to git. :( ]
 
 <!--
 **amahjoor/amahjoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
