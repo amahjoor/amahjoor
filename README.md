@@ -26,9 +26,9 @@
 </p>
 
 <h3>Random Facts</h3>
-- 🚗 4.92 customer rating on <img alt="DoorDash" src="https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white"/> deliveries.
-- 🦜 I have a parrot who is 12 years old. 
-- 👨‍👩‍👦‍👦 I am very grateful for my family and friends. 
+- 🚗 4.92 customer rating on <img alt="DoorDash" src="https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white"/> deliveries.<br>
+- 🦜 I have a parrot who is 12 years old. <br>
+- 👨‍👩‍👦‍👦 I am very grateful for my family and friends.<br> 
 
 
 <h3>Get in Touch</h3>
