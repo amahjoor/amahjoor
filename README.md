@@ -29,7 +29,7 @@
 - 🚗 4.92 customer rating on DoorDash deliveries.<!--<img alt="DoorDash" src="https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white"/>--><br>
 - 🦜 I have a parrot who is 12 years old.<br>
 - 👨‍👩‍👦‍👦 I am very grateful for my family and friends.<br> 
-- 🦜 Before pursuing CS, I graded roughly 24,000 student folders over 3 years at Kumon, which amounts to a few million math problems.<br>
+- 😵 Before pursuing CS, I graded roughly 24,000 student folders over 3 years at Kumon, which amounts to a few million math problems.<br>
 
 
 <h3>Get in Touch</h3>
