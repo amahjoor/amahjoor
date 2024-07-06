@@ -4,7 +4,7 @@
 - 🎓 pursuing a B.S. in Computer Science at George Mason University (Class of 2026)<br>
 - 🧑‍🔬 interested in AI, machine learning, neural networks, deep learning, mathematics, and startups<br>
 - 📚 currently reading Rich Dad Poor Dad by Robert T. Kiyosaki<br>
-- 🛹 i like to skate<br>
+- 🍵 i love matcha lattes<br>
 
 
 <h3>Tech Stack</h3>
