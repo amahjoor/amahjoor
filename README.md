@@ -3,7 +3,7 @@
 <h3>About Me</h3>
 - 🎓 pursuing a B.S. in Computer Science at George Mason University (Class of 2026)<br>
 - 🧑‍🔬 interested in AI, machine learning, neural networks, deep learning, mathematics, and startups<br>
-- 📚 currently reading Rich Dad Poor Dad by Robert T. Kiyosaki<br>
+- 📚 currently reading Deep Work by Cal Newport<br>
 - 🍵 i love matcha lattes<br>
 
 
