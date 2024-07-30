@@ -1,7 +1,7 @@
 ## Hello, I'm Arman 👋
 
 <h3>About Me</h3>
-- 🎓 pursuing a B.S. in Computer Science at George Mason University (Class of 2026)<br>
+- 🎓 pursuing a B.S. in Computer Science at George Mason University (expected May 2026)<br>
 - 🧑‍🔬 interested in AI, machine learning, neural networks, deep learning, mathematics, and startups<br>
 - 📚 currently reading Deep Work by Cal Newport<br>
 - 🍵 i love matcha lattes<br>
