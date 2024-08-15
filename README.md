@@ -1,12 +1,7 @@
-## Hello, I'm Arman 👋
+## Arman
+AI, machine learning, neural networks, deep learning, mathematics.
 
-<h3>About Me</h3>
-- 🎓 pursuing a B.S. in Computer Science at George Mason University (expected May 2026)<br>
-- 🧑‍🔬 interested in AI, machine learning, neural networks, deep learning, mathematics, and startups<br>
-- 📚 currently reading Deep Work by Cal Newport<br>
-- 🍵 i love matcha lattes<br>
-
-
+<!---
 <h3>Tech Stack</h3>
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=0089c9" />
@@ -26,11 +21,10 @@
 </p>
 
 <h3>Random Facts</h3>
-- 🚗 4.92 customer rating on DoorDash deliveries.<!--<img alt="DoorDash" src="https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white"/>--><br>
+- 🚗 4.94 customer rating on DoorDash deliveries.<!--<img alt="DoorDash" src="https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white"/><br>
 - 🦜 I have a parrot who is 12 years old.<br>
 - 👨‍👩‍👦‍👦 I am very grateful for my family and friends.<br> 
 - 😵 Before pursuing CS, I graded roughly 24,000 student folders over 3 years at Kumon, which amounts to a few million math problems.<br>
-
 
 <h3>Get in Touch</h3>
 <p>
@@ -40,17 +34,4 @@
 <br>
 [NOTE: Most of my commits prior to 6/30 are not visible on my profile due to not having my email linked to git. :( ]
 
-<!--
-**amahjoor/amahjoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--->
