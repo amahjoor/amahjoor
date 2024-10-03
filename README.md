@@ -1,5 +1,5 @@
 ## Arman
-welcome to my project salad bowl (aka my github account)!
+welcome to my project salad bowl (aka my github account!)
 
 <!---
 <h3>Tech Stack</h3>
